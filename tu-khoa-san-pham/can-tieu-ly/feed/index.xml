@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>can tieu ly &#8211; VH BLOG</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/can-tieu-ly/feed/" rel="self" type="application/rss+xml" />
+	<link>https://vanhoa-2002.github.io/mywordpress</link>
+	<description>No Pain, No Gain</description>
+	<lastBuildDate>Sat, 25 Sep 2021 04:00:42 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Cân tiểu ly điện tử nhà bếp mini định lượng 1g &#8211; 5kg, Cân tiểu ly làm bánh độ chính xác cao</title>
+		<link>https://vanhoa-2002.github.io/mywordpress/sản%20phẩm/can-tieu-ly-dien-tu-nha-bep-mini-dinh-luong-1g-5kg-can-tieu-ly-lam-banh-do-chinh-xac-cao/</link>
+					<comments>https://vanhoa-2002.github.io/mywordpress/sản%20phẩm/can-tieu-ly-dien-tu-nha-bep-mini-dinh-luong-1g-5kg-can-tieu-ly-lam-banh-do-chinh-xac-cao/#respond</comments>
+		
+		<dc:creator><![CDATA[Trần Văn Hòa]]></dc:creator>
+		<pubDate>Thu, 23 Sep 2021 08:10:16 +0000</pubDate>
+				<guid isPermaLink="false">https://vanhoa-2002.github.io/mywordpress/?post_type=product&#038;p=371</guid>
+
+					<description><![CDATA[<div class="aPKXeO"><label class="SFJkS3">Xuất xứ:</label>Trung Quốc</div>
+<div class="aPKXeO"><label class="SFJkS3">Hạn bảo hành:</label>6 tháng</div>
+<div class="aPKXeO"><label class="SFJkS3">Loại bảo hành:</label>Bảo hành nhà cung cấp</div>
+<div class="aPKXeO"><label class="SFJkS3">Loại pin:</label>AAA</div>
+<div class="aPKXeO"><label class="SFJkS3">Kho hàng:</label>38645</div>
+<div class="aPKXeO"><label class="SFJkS3">Gửi từ:</label>Quận Hà Đông, Hà Nội</div>]]></description>
+		
+					<wfw:commentRss>https://vanhoa-2002.github.io/mywordpress/sản%20phẩm/can-tieu-ly-dien-tu-nha-bep-mini-dinh-luong-1g-5kg-can-tieu-ly-lam-banh-do-chinh-xac-cao/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

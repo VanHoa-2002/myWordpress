@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>nồi nấu &#8211; VH BLOG</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/noi-nau/feed/" rel="self" type="application/rss+xml" />
+	<link>https://vanhoa-2002.github.io/mywordpress</link>
+	<description>No Pain, No Gain</description>
+	<lastBuildDate>Thu, 23 Sep 2021 12:10:54 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Bộ nồi sunhouse SH224, bộ nồi inox sunhouse SH224, đáy dùng cho bếp từ 3 nồi kích thước: 16cm, 18cm, 24cm</title>
+		<link>https://vanhoa-2002.github.io/mywordpress/sản%20phẩm/bo-noi-sunhouse-sh224-bo-noi-inox-sunhouse-sh224-day-dung-cho-bep-tu-3-noi-kich-thuoc-16cm-18cm-24cm/</link>
+					<comments>https://vanhoa-2002.github.io/mywordpress/sản%20phẩm/bo-noi-sunhouse-sh224-bo-noi-inox-sunhouse-sh224-day-dung-cho-bep-tu-3-noi-kich-thuoc-16cm-18cm-24cm/#respond</comments>
+		
+		<dc:creator><![CDATA[Trần Văn Hòa]]></dc:creator>
+		<pubDate>Thu, 23 Sep 2021 12:10:51 +0000</pubDate>
+				<guid isPermaLink="false">https://vanhoa-2002.github.io/mywordpress/?post_type=product&#038;p=438</guid>
+
+					<description><![CDATA[<div class="aPKXeO"><label class="SFJkS3">Thương hiệu:</label><a class="_3Qy6bH" href="https://shopee.vn/search?brands=1134377">SUNHOUSE</a></div>
+<div class="aPKXeO"><label class="SFJkS3">Xuất xứ:</label>Việt Nam</div>
+<div class="aPKXeO"><label class="SFJkS3">Hạn bảo hành:</label>12 tháng</div>
+<div class="aPKXeO"><label class="SFJkS3">Chất liệu:</label>Inox</div>
+<div class="aPKXeO"><label class="SFJkS3">Loại bảo hành:</label>Bảo hành nhà sản xuất</div>
+<div class="aPKXeO"><label class="SFJkS3">Đường kính:</label>24cm</div>
+<div class="aPKXeO"><label class="SFJkS3">Loại nồi:</label>Nỗi inox</div>
+<div class="aPKXeO"><label class="SFJkS3">Kho hàng:</label>1174</div>
+<div class="aPKXeO"><label class="SFJkS3">Gửi từ:Hà Nội</label></div>]]></description>
+		
+					<wfw:commentRss>https://vanhoa-2002.github.io/mywordpress/sản%20phẩm/bo-noi-sunhouse-sh224-bo-noi-inox-sunhouse-sh224-day-dung-cho-bep-tu-3-noi-kich-thuoc-16cm-18cm-24cm/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
