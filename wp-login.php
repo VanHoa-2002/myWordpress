@@ -90,7 +90,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/myproject\/wordpress\/wp-admin\/admin-aj
 <script type="text/javascript" src="https://vanhoa-2002.github.io/mywordpress/wp-includes/js/wp-util.min.js?ver=5.8.1" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /*  */
-var userProfileL10n = {"user_id":"0","nonce":"445308c0ab"};
+var userProfileL10n = {"user_id":"0","nonce":"f1d7b34246"};
 /*  */
 </script>
 <script type="text/javascript" id="user-profile-js-translations">
