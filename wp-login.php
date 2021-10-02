@@ -2,7 +2,7 @@
 <html lang="vi">
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Đăng nhập &lsaquo; VH BLOG &#8212; WordPress</title>
+	<title>Đăng nhập &lsaquo; VH STORE &#8212; WordPress</title>
 	<meta name="robots" content="noindex, nofollow, noarchive">
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="stylesheet" id="dashicons-css" href="https://vanhoa-2002.github.io/mywordpress/wp-includes/css/dashicons.min.css?ver=5.8.1" type="text/css" media="all">
@@ -51,7 +51,7 @@
 wp_attempt_focus();
 if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
 				<p id="backtoblog">
-			<a href="https://vanhoa-2002.github.io/mywordpress/">&larr; Quay lại VH BLOG</a>		</p>
+			<a href="https://vanhoa-2002.github.io/mywordpress/">&larr; Quay lại VH STORE</a>		</p>
 			</div>
 	<script type="text/javascript" src="https://vanhoa-2002.github.io/mywordpress/wp-includes/js/jquery/jquery.min.js?ver=3.6.0" id="jquery-core-js"></script>
 <script type="text/javascript" src="https://vanhoa-2002.github.io/mywordpress/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
@@ -90,7 +90,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/myproject\/wordpress\/wp-admin\/admin-aj
 <script type="text/javascript" src="https://vanhoa-2002.github.io/mywordpress/wp-includes/js/wp-util.min.js?ver=5.8.1" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /*  */
-var userProfileL10n = {"user_id":"0","nonce":"c4386eea03"};
+var userProfileL10n = {"user_id":"0","nonce":"445308c0ab"};
 /*  */
 </script>
 <script type="text/javascript" id="user-profile-js-translations">
