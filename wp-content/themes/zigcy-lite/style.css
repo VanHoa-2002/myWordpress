@@ -125,7 +125,7 @@ text-align: left;
 
 body {
 	margin: 0;
-	font-family:monospace;
+	font-family:Poppins;
 	color: #404040;
     font-weight: 400;
 }
@@ -264,7 +264,7 @@ input,
 optgroup,
 select,
 textarea {
-	font-family: monospace; /* 1 */
+	font-family: Poppins; /* 1 */
 	font-size: 100%; /* 1 */
 	line-height: 1.15; /* 1 */
 	margin: 0; /* 2 */
@@ -459,7 +459,7 @@ input,
 select,
 optgroup,
 textarea {
-	font-family: monospace;
+	font-family: Poppins;
 	color: #404040;
     font-weight: 400;
 	font-size: 16px;
